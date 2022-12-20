@@ -5,7 +5,7 @@ use v6;
 # All Rights Reserved - See License
 #
 
-unit class X::Sys::HostAddr::WebServiceError:ver<0.1.2>:auth<cpan:JMASLAK>
+unit class X::Sys::HostAddr::WebServiceError:ver<0.1.2>:auth<zef:jmaslak>
     is Exception;
 
 method message() { "Could not obtain IP address from web service" }

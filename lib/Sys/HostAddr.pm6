@@ -1,11 +1,11 @@
 use v6;
 
 #
-# Copyright © 2020 Joelle Maslak
+# Copyright © 2020-2022 Joelle Maslak
 # Used Jeremy Kiester's Perl5 Sys::HostAddr as the source of inspiration.
 #
 
-unit class Sys::HostAddr:ver<0.1.2>:auth<cpan:JMASLAK>;
+unit class Sys::HostAddr:ver<0.1.2>:auth<zef:jmaslak>;
 
 use Cro::HTTP::Client;
 use Net::Netmask;
@@ -333,7 +333,7 @@ Inspired by Perl 5 C<Sys::Hostname> by Jeremy Kiester.
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright © 2020 Joelle Maslak
+Copyright © 2020-2022 Joelle Maslak
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 

@@ -135,7 +135,7 @@ Inspired by Perl 5 `Sys::Hostname` by Jeremy Kiester.
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright © 2020 Joelle Maslak
+Copyright © 2020-2022 Joelle Maslak
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 

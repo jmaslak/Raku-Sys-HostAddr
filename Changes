@@ -1,6 +1,7 @@
 Revision history for Sys::HostAddr
 
 {{$NEXT}}
+  * Migrate to Raku module ecosystem
 
 0.1.2  2020-02-03T03:41:00Z
   * Support docker containers
