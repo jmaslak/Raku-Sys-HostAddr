@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/jmaslak/Raku-Sys-HostAddr.svg?branch=master)](https://travis-ci.org/jmaslak/Raku-Sys-HostAddr)
 [![SparrowCI](https://ci.sparrowhub.io/project/gh-jmaslak-Raku-Sys-HostAddr/badge?)](https://ci.sparrowhub.io)
 
 NAME
